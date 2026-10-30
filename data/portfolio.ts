@@ -54,6 +54,7 @@ export const projects: Project[] = [
       "Added Google sign-in, community leaderboards, and top hero and villain rankings",
     ],
     stack: ["React.js", "Next.js", "JavaScript", "TMDB API", "Google Sign-In"],
+    live: "https://screen-range.vercel.app/",
   },
   {
     id: "iporemedi",
@@ -81,6 +82,7 @@ export const projects: Project[] = [
       "Building a real-time GMP tracker with a React.js frontend",
     ],
     stack: ["React.js", "JavaScript"],
+    code: "https://github.com/Paul-NIROB/gmpcal",
   },
   {
     id: "wideframe",
@@ -94,6 +96,7 @@ export const projects: Project[] = [
       "Integrated Firebase for real-time data storage and user authentication",
     ],
     stack: ["HTML", "CSS", "JavaScript", "Node.js", "Firebase"],
+    code: "https://github.com/Paul-NIROB/WIDEFRAME",
   },
   {
     id: "kite-mcp",
